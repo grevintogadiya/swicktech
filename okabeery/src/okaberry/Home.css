@@ -1,0 +1,23 @@
+.box {
+    border: 2px solid transparent;
+    text-align: center;
+    background-color: #f3f5f1;
+    padding: 30px;
+    margin: 0 auto;
+    border-radius: 10px;
+  }
+  
+  .bottom2 {
+    padding: 70px 0;
+  }
+  
+  @media (max-width: 576px) {
+    .main1 h1 {
+      font-size: 24px;
+    }
+  
+    .box {
+      padding: 20px;
+    }
+  }
+  

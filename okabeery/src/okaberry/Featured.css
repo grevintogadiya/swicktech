@@ -1,0 +1,58 @@
+.card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  border: 1px solid #ddd;
+  background-color: #fff;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-body {
+  padding: 15px;
+}
+
+.badge {
+  font-size: 1rem;
+  padding: 0.5em 1em;
+}
+
+.badge.bg-success {
+  background-color: #28a745 !important;
+}
+
+.badge.bg-danger {
+  background-color: #dc3545 !important;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+}
+
+.text-muted {
+  color: #6c757d !important;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.mt-3 {
+  margin-top: 1rem;
+}
+
+.shadow-sm {
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.rounded-circle {
+  border-radius: 50%;
+}

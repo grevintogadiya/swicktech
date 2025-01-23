@@ -1,0 +1,10 @@
+.best{
+    width: 100%;
+    background-image: url("https://preview.colorlib.com/theme/oakberry/images/about-1.jpg.webp");
+    height: 200px;
+}
+.picture{
+    display:flex;
+    justify-content: space-evenly;
+    padding-top: 70px;
+}

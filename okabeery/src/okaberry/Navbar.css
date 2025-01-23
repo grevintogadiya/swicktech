@@ -1,0 +1,28 @@
+.main {
+    background-image: url("https://preview.colorlib.com/theme/oakberry/images/bg_4.jpg.webp");
+    height: 650px;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.1);
+  }
+  
+  .header1 {
+    background-color: rgba(0, 0, 0, 0.1);
+  }
+  
+  .header3 h6 {
+    margin: 0 15px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .header3 h6:hover {
+    text-decoration: underline;
+  }
+  
+  .middle {
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+  }
+  

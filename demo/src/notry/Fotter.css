@@ -1,0 +1,53 @@
+
+
+ .fotter {
+    background-image: url(https://preview.colorlib.com/theme/notary/images/hero_bg_footer.jpg.webp);
+    height: 480px;
+    background-size: cover;
+    background-position: center;
+    color: white;
+  }
+  
+  .fotterr {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 120px;
+    padding-bottom: 40px;
+  }
+  
+  .f1, .f2, .f3, .f4, .f5 {
+    text-align: left;
+  }
+  
+  .fotterend {
+    padding: 20px 0;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  
+  .maintext {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  h6 {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  p {
+    font-size: 1rem;
+    margin: 5px 0;
+  }
+  
+  @media (max-width: 768px) {
+    .fotterr {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .f1, .f2, .f3, .f4, .f5 {
+      margin-bottom: 20px;
+    }
+  }
+  

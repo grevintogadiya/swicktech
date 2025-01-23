@@ -1,0 +1,11 @@
+.clientbox{
+    border: 2px solid transparent;
+    background-color: white;
+    padding: 30px 30px 30px 30px;
+}
+
+.boxclient{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}

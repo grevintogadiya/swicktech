@@ -1,0 +1,30 @@
+
+
+.card i {
+    font-size: 30px;
+    color: #6c757d;
+  }
+  
+  .card h5 {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #212529;
+  }
+  
+  .card p {
+    color: #495057;
+    font-family: 'Lucida Sans', Geneva, Verdana, sans-serif;
+  }
+  
+  .bg-light {
+    background-color: #f8f9fa !important;
+  }
+  .custom-margin {
+    margin-top: 50px;
+  }
+  
+  .text-center h3 {
+    font-size: 1.8rem;
+    color: #212529;
+  }
+  

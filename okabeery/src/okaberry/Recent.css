@@ -1,0 +1,20 @@
+.recent{
+    background-color: #f7f7f7 ;
+}
+.recentbox1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.recenttext{
+    border: 2px solid transparent;
+    width: 275px;
+    color: white;
+    background-color: white;
+    padding: 30px 30px 30px 30px;
+}
+
+.boxagent{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}

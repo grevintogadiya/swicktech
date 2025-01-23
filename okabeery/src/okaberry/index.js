@@ -1,0 +1,10 @@
+export {default as Navbar} from './navabr';
+export {default as Home} from './home';
+export {default as Featured} from './Featured';
+export {default as Modren} from './Modren';
+export {default as Company} from './Company';
+export {default as Find} from './Find';
+export {default as Client} from './Client';
+export {default as Agent} from './Agent';
+export {default as Recent} from './Recent';
+export {default as Photos} from './photos';

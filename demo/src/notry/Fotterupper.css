@@ -1,0 +1,48 @@
+/* .mainimage{
+    justify-content: space-evenly;
+    display:flex;
+    padding-top: 90px;
+} */
+
+
+/* Main Image and Content Styling */
+.mainimage {
+    padding-top: 90px;
+  }
+  
+  .first {
+    flex: 1;
+  }
+  
+  .secound {
+    flex: 1;
+  }
+  
+  .third {
+    flex: 1;
+  }
+  .color {
+    padding: 15px;
+    font-size: 0.9rem;
+  }
+  
+
+  h4 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.6;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+  }
+  
+  

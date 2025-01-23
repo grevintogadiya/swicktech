@@ -1,0 +1,22 @@
+.back{
+    background-color: #050d21;
+    
+     background-color: rgb(255, 255, 255),rgb(0, 0, 255);
+    height: 790px;
+
+}
+.agenttext{
+    border: 2px solid transparent;
+    width: 275px;
+    color: white;
+    background-color: green;
+    padding: 30px 30px 30px 30px;
+}
+
+.boxagent{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+
+ 
